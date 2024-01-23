@@ -4,4 +4,4 @@
 Bhavitha Jayaprakash
 ### Day 1
 
-[Bhavitha Jayaprakash](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24)
+[Bhavitha Jayaprakash](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/main/index.md)
