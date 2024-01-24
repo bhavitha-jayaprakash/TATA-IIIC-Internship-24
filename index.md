@@ -1,8 +1,6 @@
-# TATA IIIC INTERNSHIP 2024
+# **TATA IIIC INTERNSHIP 2024**
 
-### Abount me
-Bhavitha Jayaprakash
-### Day 1
+### **Day 1**
 ![Tinkercad 3D House]()
 
 [Bhavitha Jayaprakash](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24)
