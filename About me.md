@@ -1,6 +1,6 @@
 ## **Hey There, I'm _Bhavitha Jayaprakash_**
 
-[]()
+![Bhavitha Jayaprakash's Photo](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/IMG_20240124_071433_615.jpg)
  
 I'm a **software enthusiast** who is currently **pursuing bachelor's degree in computer science engineering** at *Jyothi engineering college, Cheruthuruthy*.
 I did my schooling at *Carmel CMI School, Shoranur*.  
