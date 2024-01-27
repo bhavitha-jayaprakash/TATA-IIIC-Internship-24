@@ -64,7 +64,7 @@ They introduced us to processes and machinery of:
   
 - *Heat treatment* - It is done to enhance  strength and quality of steel. It is heated upto critical temperature and is a molecular rearrangement process. It does not have any automated machinery but is done manually under supervision of experienced staffs.
 
- ![Heat treatment]()
+  ![Heat treatment]()
 
 - *Power press*
 
@@ -82,9 +82,9 @@ They introduced us to processes and machinery of:
 
   ![Hand forge]()
   
-- *leith* - It is known as **The Mother of the Machines**.
+- *Lathe* - It is known as **The Mother of the Machines**.
 
-  ![leith]()
+   ![Lathe]()
   
 - *Drilling machine*
 
