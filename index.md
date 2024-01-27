@@ -76,7 +76,7 @@ They introduced us to processes and machinery of:
   
 - *Power forge*
 
- ![Power forge]()
+  ![Power forge]()
  
 - *Hand forge*
 
