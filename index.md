@@ -46,7 +46,8 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
 - **Industrial Visit** - *We visited two industries in Kallippadam- Vijaya Polymers and The Metal Industries.*
   
  1. **Vijaya Polymers** - Its a plastic injection molding workshop. They briefly explained about the processes, machinery and molds used. Fine plastic granules are melted at very high temperature and injected into mold. Water is passed through the mold for cooling the extremely hot mold. High temperature is obtained with help of furnace. He is a classic example of a smart and innovative person with the heart of an engineer.
- 2. **The Metal Industries** - It is a Kerala State public sector undertaking Unit established in the year 1928 perhaps the one among the first few pioneer industries in pre independent India and the first one in south India. The activities of the company are to manufacture and market various agricultural implements and tools required for agro farming, handicrafts and artisans community. The major clients of the products are Public and Government sectors.
+    ![Injection moulding]()
+ 3. **The Metal Industries** - It is a Kerala State public sector undertaking Unit established in the year 1928 perhaps the one among the first few pioneer industries in pre independent India and the first one in south India. The activities of the company are to manufacture and market various agricultural implements and tools required for agro farming, handicrafts and artisans community. The major clients of the products are Public and Government sectors.
 
 They introduced us to processes and machinery of:
 - *Furnaces* - Two types of furnaces are there- Coal and electric furnace. In coal furnace, high quality coal is used so that they do not break and will maintain a constant temperature. Electric furnaces are more efficient but not affordable when used for small scale production. Electric furnace can be of low or high temperature. It have 2 zones. Zone 1 with less heating operation due to opening and Zone 2 with more heating power.
@@ -59,16 +60,36 @@ They introduced us to processes and machinery of:
 
 - *Plasma cutting* - Used for rail cutting. It is similar to hydraulic systems but use air instead of fluids.
 
- ![Plasma cutting]()
+  ![Plasma cutting]()
   
 - *Heat treatment* - It is done to enhance  strength and quality of steel. It is heated upto critical temperature and is a molecular rearrangement process. It does not have any automated machinery but is done manually under supervision of experienced staffs.
 
-![Heat treatment]()
+ ![Heat treatment]()
 
 - *Power press*
+
+  ![Power press]()
+  
 - *Hammer measuring tools*
+
+  ![]()
+  
 - *Power forge*
+
+ ![Heat treatment]()
+ 
 - *Hand forge*
+
+  ![Heat treatment]()
+  
 - *leith* - It is known as **The Mother of the Machines**.
+
+  ![Heat treatment]()
+  
 - *Drilling machine*
+
+  ![Heat treatment]()
+  
 - *Planing machine*
+
+  ![Heat treatment]()
