@@ -49,7 +49,7 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
  2. **The Metal Industries** - It is a Kerala State public sector undertaking Unit established in the year 1928 perhaps the one among the first few pioneer industries in pre independent India and the first one in south India. The activities of the company are to manufacture and market various agricultural implements and tools required for agro farming, handicrafts and artisans community. The major clients of the products are Public and Government sectors.
 
 They introduced us to processes and machinery of:
-- *Furnaces*- Two types of furnaces are there- Coal and electric furnace. In coal furnace, high quality coal is used so that they do not break and will maintain a constant temperature. Electric furnaces are more efficient but not affordable when used for small scale production. Electric furnace can be of low or high temperature. It have 2 zones. Zone 1 with less heating operation due to opening and Zone 2 with more heating power.
+- *Furnaces* - Two types of furnaces are there- Coal and electric furnace. In coal furnace, high quality coal is used so that they do not break and will maintain a constant temperature. Electric furnaces are more efficient but not affordable when used for small scale production. Electric furnace can be of low or high temperature. It have 2 zones. Zone 1 with less heating operation due to opening and Zone 2 with more heating power.
   
   ![Electric furnace]()
 
@@ -57,6 +57,18 @@ They introduced us to processes and machinery of:
   
   ![Electric furnace controller]()
 
-- **
+- *Plasma cutting* - Used for rail cutting. It is similar to hydraulic systems but use air instead of fluids.
 
+ ![Plasma cutting]()
+  
+- *Heat treatment* - It is done to enhance  strength and quality of steel. It is heated upto critical temperature and is a molecular rearrangement process. It does not have any automated machinery but is done manually under supervision of experienced staffs.
 
+![Heat treatment]()
+
+- *Power press*
+- *Hammer measuring tools*
+- *Power forge*
+- *Hand forge*
+- *leith* - It is known as **The Mother of the Machines**.
+- *Drilling machine*
+- *Planing machine*
