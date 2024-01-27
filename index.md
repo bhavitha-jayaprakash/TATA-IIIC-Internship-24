@@ -8,7 +8,7 @@
 - We also completed an online course on *Yaskawa Safet Principles* offered by Yaskawa online training.
 - Our intership was mainly led by Jinesh Sir, Sumesh Sir, Navin Sir, and Arjun Sir.
 
-*A summary of our works in given below.*
+*A summary of our works is given below.*
 
 ## **Day 1**
 - **Introduction to Github and Tinkercad** - *We designed a 3D house in Tinkercad and created a repostiory in Github for the internship.*
