@@ -44,6 +44,7 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
 
 ## **Day 5**
 - **Industrial Visit** - *We visited two industries in Kallippadam- Vijaya Polymers and The Metal Industries.*
+  
  1.Vijaya Polymers - Its a plastic injection molding workshop. They briefly explained about the processes, machinery and molds used. Fine plastic granules are melted at very high temperature and 
 
 
