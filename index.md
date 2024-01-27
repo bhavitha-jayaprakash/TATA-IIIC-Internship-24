@@ -26,7 +26,7 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
   
   ![Creo 3D Model](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Day%202.JPG)
 
-- **Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safet Principles**. To access the certificate click [here](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20certificate.jpg).
+- **Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safety Principles**. To access the certificate click [here](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20certificate.jpg).
 
 ![Yaskawa robots](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20robots.jpg)
 
@@ -43,7 +43,8 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
 - **Work-from-home** - *Created this github file and an About me file.*
 
 ## **Day 5**
-- _Industrial Visit_
+- **Industrial Visit** - *We visited two industries in Kallippadam- Vijaya Polymers and The Metal Industries.*
+ 1.Vijaya Polymers - Its a plastic injection molding workshop. They briefly explained about the processes, machinery and molds used. Fine plastic granules are melted at very high temperature and 
 
 
 
