@@ -11,7 +11,7 @@
 *A summary of our works in given below.*
 
 ## **Day 1**
-- _**Introduction to Github and Tinkercad**_ - We designed a 3D house in Tinkercad and created a repostiory in Github for the internship.
+- ***Introduction to Github and Tinkercad*** - We designed a 3D house in Tinkercad and created a repostiory in Github for the internship.
 - _Tinkercad project - 3D House Designing_
   
 ![Tinkercad 3D House](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/tinkercad.png)
