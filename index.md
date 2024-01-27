@@ -26,7 +26,7 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
   
   ![Creo 3D Model](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Day%202.JPG)
 
-- **Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safet Principles**. To access the certificate click [here](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20Certificate).
+- **Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safet Principles**. To access the certificate click [here](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20certificate.jpg).
 
 ![Yaskawa robots](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20robots.jpg)
 
