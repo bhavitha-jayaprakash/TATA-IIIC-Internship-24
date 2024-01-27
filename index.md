@@ -72,24 +72,24 @@ They introduced us to processes and machinery of:
   
 - *Hammer measuring tools*
 
-  ![]()
+  ![Hammer measuring tools]()
   
 - *Power forge*
 
- ![Heat treatment]()
+ ![Power forge]()
  
 - *Hand forge*
 
-  ![Heat treatment]()
+  ![Hand forge]()
   
 - *leith* - It is known as **The Mother of the Machines**.
 
-  ![Heat treatment]()
+  ![leith]()
   
 - *Drilling machine*
 
-  ![Heat treatment]()
+  ![Drilling machine]()
   
 - *Planing machine*
 
-  ![Heat treatment]()
+  ![Planing machine]()
