@@ -35,7 +35,7 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
 
 ![Ball bearing parts 1](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_063649.jpg)
 
-![Ball bearing parts 2](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_063723.jpg).
+![Ball bearing parts 2](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_063723.jpg)
 
 - **Programming of Yaskawa AR1140-Arc welding robot and completed simple welding project.**
 
