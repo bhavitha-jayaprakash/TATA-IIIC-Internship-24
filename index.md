@@ -47,51 +47,51 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
   
  1. **Vijaya Polymers** - Its a plastic injection molding workshop. They briefly explained about the processes, machinery and molds used. Fine plastic granules are melted at very high temperature and injected into mold. Water is passed through the mold for cooling the extremely hot mold. High temperature is obtained with help of furnace. He is a classic example of a smart and innovative person with the heart of an engineer.
     
-    ![Injection moulding]()
+    ![Injection moulding](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_110726.jpg)
     
  3. **The Metal Industries** - It is a Kerala State public sector undertaking Unit established in the year 1928 perhaps the one among the first few pioneer industries in pre independent India and the first one in south India. The activities of the company are to manufacture and market various agricultural implements and tools required for agro farming, handicrafts and artisans community. The major clients of the products are Public and Government sectors.
 
 They introduced us to processes and machinery of:
 - *Furnaces* - Two types of furnaces are there- Coal and electric furnace. In coal furnace, high quality coal is used so that they do not break and will maintain a constant temperature. Electric furnaces are more efficient but not affordable when used for small scale production. Electric furnace can be of low or high temperature. It have 2 zones. Zone 1 with less heating operation due to opening and Zone 2 with more heating power.
-  
-  ![Electric furnace]()
+  ![Coal furnace](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_114515.jpg)
+  ![Electric furnace](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_114620.jpg)
 
   Electric furnace have a controller that manages the system and also have a recorder that displays informations including a graph.
   
-  ![Electric furnace controller]()
+  ![Electric furnace controller](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_114723.jpg)
 
 - *Plasma cutting* - Used for rail cutting. It is similar to hydraulic systems but use air instead of fluids.
 
-  ![Plasma cutting]()
+  ![Plasma cutting](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_113556.jpg)
   
 - *Heat treatment* - It is done to enhance  strength and quality of steel. It is heated upto critical temperature and is a molecular rearrangement process. It does not have any automated machinery but is done manually under supervision of experienced staffs.
 
-  ![Heat treatment]()
+  ![Heat treatment](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_121511.jpg)
 
 - *Power press*
 
-  ![Power press]()
+  ![Power press](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_113819.jpg)
   
 - *Hammer measuring tools*
 
-  ![Hammer measuring tools]()
+  ![Hammer measuring tools](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_114228.jpg)
   
 - *Power forge*
 
-  ![Power forge]()
+  ![Power forge](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_115328.jpg)
  
 - *Hand forge*
 
-  ![Hand forge]()
+  ![Hand forge](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_120113.jpg)
   
 - *Lathe* - It is known as **The Mother of the Machines**.
 
-   ![Lathe]()
+   ![Lathe](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_122205.jpg)
   
 - *Drilling machine*
 
-  ![Drilling machine]()
+  ![Drilling machine](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_122250.jpg)
   
 - *Planing machine*
 
-  ![Planing machine]()
+  ![Planing machine](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_122317.jpg)
