@@ -24,18 +24,18 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
 ## **Day 2**
 - **Introduction to Creo** - *We designed 3D models in Creo.*
   
-  ![Creo 3D Model]()
+  ![Creo 3D Model](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Day%202.JPG)
 
-- **Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safet Principles**. To access the certificate click [here]().
+- **Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safet Principles**. To access the certificate click [here](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20Certificate).
 
-![Yaskawa robots]()
+![Yaskawa robots](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/Yaskawa%20robots.jpg)
 
 ## **Day 3**
 - **Designed various components of ball bearing - Outer & Inner race, cage, sphere and rivet, and assebled them in Creo.**
 
-![Ball bearing parts]()
+![Ball bearing parts 1](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_063649.jpg)
 
-![Ball bearing]().
+![Ball bearing parts 2](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/20240127_063723.jpg).
 
 - **Programming of Yaskawa AR1140-Arc welding robot and completed simple welding project.**
 
