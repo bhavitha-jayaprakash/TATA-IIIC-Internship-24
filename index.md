@@ -11,7 +11,7 @@
 *A summary of our works in given below.*
 
 ## **Day 1**
-- ***Introduction to Github and Tinkercad*** - We designed a 3D house in Tinkercad and created a repostiory in Github for the internship.
+- **Introduction to Github and Tinkercad** - *We designed a 3D house in Tinkercad and created a repostiory in Github for the internship.*
 - _Tinkercad project - 3D House Designing_
   
 ![Tinkercad 3D House](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/tinkercad.png)
@@ -19,28 +19,28 @@
 To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI-project-house).
 
 - [Github repsoitory-Internship](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24)
-- _**Intoduced to robotic terminologies, basic operations and safety related to robots.**_
+- **Intoduced to robotic terminologies, basic operations and safety related to robots.**
 
 ## **Day 2**
-- _**Introduction to Creo**_ - We designed 3D models in Creo.
+- **Introduction to Creo** - *We designed 3D models in Creo.*
   
   ![Creo 3D Model]()
 
-- _**Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safet Principles**_. To access the certificate click [here]().
+- **Hands on pick and place robot and completed Yaskawa Assessment course on Yaskawa Safet Principles**. To access the certificate click [here]().
 
 ![Yaskawa robots]()
 
 ## **Day 3**
-- _**Designed various components of ball bearing - Outer & Inner race, cage, sphere and rivet, and assebled them in Creo.**_
+- **Designed various components of ball bearing - Outer & Inner race, cage, sphere and rivet, and assebled them in Creo.**
 
 ![Ball bearing parts]()
 
 ![Ball bearing]().
 
-- _**Programming of Yaskawa AR1140-Arc welding robot and completed simple welding project.**_
+- **Programming of Yaskawa AR1140-Arc welding robot and completed simple welding project.**
 
 ## **Day 4**
-- _**Work-from-home**_ - Created this github file and an About me file.
+- **Work-from-home** - *Created this github file and an About me file.*
 
 ## **Day 5**
 - _Industrial Visit_
