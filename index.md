@@ -40,7 +40,7 @@ To access the project, click [here](https://www.tinkercad.com/things/3kL4KeJIwSI
 - **Programming of Yaskawa AR1140-Arc welding robot and completed simple welding project.**
 
 ## **Day 4**
-- **Work-from-home** - *Created this github file and an About me file.*
+- **Work-from-home** - *Created this github file and an [About me](https://github.com/bhavitha-jayaprakash/TATA-IIIC-Internship-24/blob/main/About%20me.md) file.*
 
 ## **Day 5**
 - **Industrial Visit** - *We visited two industries in Kallippadam- Vijaya Polymers and The Metal Industries.*
